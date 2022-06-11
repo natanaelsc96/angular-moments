@@ -5,13 +5,17 @@ This project contains [FontAwesome](https://fontawesome.com/).
 
 ## Requirements
 
-[Node](https://nodejs.org/en/) \
-[Angular CLI](https://angular.io/cli) \
+[Node](https://nodejs.org/en/)
+
+[Angular CLI](https://angular.io/cli)
+
 npm or yarn
 
 ## Install
 
-Install dependencies `npm install` or `yarn install`
+Use npm or yarn to install dependencies
+
+`npm install` or `yarn install`
 
 ## Development server
 
